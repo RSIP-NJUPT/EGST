@@ -17,8 +17,8 @@ To address these challenges, we propose Edge-Guided Structural Transformer Netwo
 
 ```shell
 # 1. Create a conda environment
-conda create --name slgt2 python=3.9 -y
-conda activate slgt2
+conda create --name egst python=3.9 -y
+conda activate egst
 
 # 2. Install PyTorch
 conda install pytorch==1.12.0 torchvision==0.13.0 torchaudio==0.12.0 cudatoolkit==11.6 -c pytorch -c conda-forge
