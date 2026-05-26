@@ -1,4 +1,4 @@
-# An Edge-Guided Structural Transformer Network for SAR Time Series Land Cover Mapping (under review)
+# An Edge-Guided Structural Transformer Network for SAR Time Series Land Cover Mapping
 
 Kang Ni, Jiaxing Ren, Chunyang Yuan*, Zhizhong Zheng*, Peng Wang
 
